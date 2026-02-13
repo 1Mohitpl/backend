@@ -36,7 +36,7 @@ cp .env.example .env
 
 4. Update `.env` with your configuration:
 ```
-MONGODB_URI=mongodb://localhost:27017/trackyoursubscription
+MONGODB_URI=mongodb://localhost:27017/yourName
 JWT_SECRET=your_super_secret_key_here
 PORT=5000
 NODE_ENV=development
